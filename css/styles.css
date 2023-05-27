@@ -98,6 +98,12 @@ hr {
     margin-left: 30px;
 }
 
+.img-proj {
+    width: 10%;
+    float: left;
+    margin-right: 30px;
+}
+
 .skill-row, .proj-row {
     width: 50%;
     margin: 100px auto 100px auto;
